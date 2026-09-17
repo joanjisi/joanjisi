@@ -1,16 +1,16 @@
-## Hi there 👋
+# Joan Jiménez
 
-<!--
-**joanjisi/joanjisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./assets/banner.gif)
 
-Here are some ideas to get you started:
+> I like turning ideas into something real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development Student · DAW
+
+I enjoy creating clean, useful and well-designed digital experiences.
+Currently learning, experimenting and building along the way.
+
+`HTML` `CSS` `JavaScript` `PHP` `SQL` `Git`
+
+---
+
+*Learning by building.*
