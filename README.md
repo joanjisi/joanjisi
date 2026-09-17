@@ -1,9 +1,5 @@
 # Joan Jiménez
 
-<p align="center">
-  <img width="600" alt="minimalist animation" src="https://github.com/user-attachments/assets/5fa10cc8-980b-4d0c-9e1c-5c179e3ba616" />
-</p>
-
 > **I like turning ideas into something real.**
 
 Web Development Student · DAW
